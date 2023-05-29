@@ -7,4 +7,5 @@
 * [Prime](https://github.com/nafscode/cs50/blob/main/Week1/prime.c): for practice using for loops.
 * [Mario](https://github.com/nafscode/cs50/blob/main/Week1/mario.c): to create a right aligned pyramid.
 * [Mario_more](https://github.com/nafscode/cs50/blob/main/Week1/mario_more.c): to create a full pyramid
-* [Cash](https://github.com/nafscode/cs50/blob/main/Week1/cash.c): Implementing a greedy algorithm. A greedy algorithm is one “that always takes the best immediate, or local, solution while finding an answer. 
+* [Cash](https://github.com/nafscode/cs50/blob/main/Week1/cash.c): Implementing a greedy algorithm. A greedy algorithm is one “that always takes the best immediate, or local, solution while finding an answer.
+* [Credit](https://github.com/nafscode/cs50/blob/main/Week1/credit.c): Implementing Luhn’s algorithm.
