@@ -1,4 +1,4 @@
-# C
+## C. Source Code. Machine Code. Compiler. Correctness, Design, Style. Visual Studio Code. Syntax Highlighting. Escape Sequences. Header Files. Libraries. Manual Pages. Types. Conditionals. Variables. Loops. Linux. Graphical User Interface (GUI). Command-Line Interface (CLI). Constants. Comments. Pseudocode. Operators. Integer Overflow. Floating-Point Imprecision.
 
 * [Hello](https://github.com/nafscode/cs50/blob/main/Week1/hello.c): Lab task to print hello
 * [Population](https://github.com/nafscode/cs50/blob/main/Week1/population.c): Determine how long it takes for a population to reach a particular size.
