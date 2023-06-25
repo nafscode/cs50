@@ -5,3 +5,4 @@
 * [Hours](https://github.com/nafscode/cs50/blob/main/Week2/hours.c): for practice with arrays, passing arrays as parameters to a function, integer division and type casting.
 * [No-vowels](https://github.com/nafscode/cs50/blob/main/Week2/no-vowels.c): for practice with strings, command-line arguments, and writing an entire program from scratch.
 * [Password](https://github.com/nafscode/cs50/blob/main/Week2/password.c): for practice iterating through a string, using the ctype library, and using Boolean variables.
+* [readability](https://github.com/nafscode/cs50/blob/main/Week2/readability.c): a program, readability, that computes the Coleman-Liau index of text.
