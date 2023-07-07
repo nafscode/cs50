@@ -6,3 +6,4 @@
 * [No-vowels](https://github.com/nafscode/cs50/blob/main/Week2/no-vowels.c): for practice with strings, command-line arguments, and writing an entire program from scratch.
 * [Password](https://github.com/nafscode/cs50/blob/main/Week2/password.c): for practice iterating through a string, using the ctype library, and using Boolean variables.
 * [Readability](https://github.com/nafscode/cs50/blob/main/Week2/readability.c): a program, readability, that computes the Coleman-Liau index of text.
+* [Bulbs](https://github.com/nafscode/cs50/blob/main/Week2/bulbs.c): Implementation of Bases.
